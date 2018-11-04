@@ -25,7 +25,7 @@ filebeat.inputs:
 
   # Paths that should be crawled and fetched. Glob based paths.
   paths:
-    - C:\GoPath\src\github.com\hsluoyz\logdance\log\*.log
+    - I:\Microsoft\LogNet - General\Logs\*\*.csv
     #- c:\programdata\elasticsearch\logs\*
 
   # Exclude lines. A list of regular expressions to match. It drops the lines that are
